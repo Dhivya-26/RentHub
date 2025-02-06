@@ -23,3 +23,4 @@ The project aims to provide a convenient and secure rental platform where:
 ## Tech Stack
  - Front end - HTML , CSS , React
  - Backend - node.js , MongodB
+ 
